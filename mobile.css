@@ -102,7 +102,7 @@ end of nav
  The hero image 
 *************************/
 #home-hero {
-  background-image: url("images/code.jpg");
+  background-image: url("images/code.webp");
   width: 100%;
   /* Set a specific height */
   height: 100vh;
