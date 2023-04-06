@@ -95,6 +95,7 @@ end of nav
 ***************************/
 .main {
   margin-top: 40px; /* Add a top margin to avoid content overlay */
+  overflow-x: hidden;
 }
 
 /*******************************
