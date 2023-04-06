@@ -30,8 +30,8 @@ export default class interactions {
           </a>
 
           <div class="code-links">
-            <a href="${element.sourcecode}" target="_blank">ViewCode</a>
-            <a href="${element.link}" target="_blank">ViewLive</a>
+            <a class="buttonlink" href="${element.sourcecode}" target="_blank">ViewCode</a>
+            <a class="buttonlink" href="${element.link}" target="_blank">ViewLive</a>
           </div>
 
         </div>

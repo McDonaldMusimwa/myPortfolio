@@ -22,6 +22,7 @@ html {
 /*************************
 nava bar
 **************************/
+
 nav button {
   margin: 0.2rem 2vw;
   background-color: transparent;
@@ -64,7 +65,9 @@ nav ul.open {
   padding-bottom: 10px;
   padding-top: 10px;
   text-decoration: none;
+  transition: 0.7s ease;
 }
+
 #primaryNav li {
   margin-top: 5px;
 }
@@ -80,6 +83,7 @@ nav ul li a:hover {
 
 .main-menu {
   z-index: 1;
+  padding: 0 24px;
   overflow: hidden;
   background-color: var(--backcolor);
   position: fixed; /* Set the navbar to fixed position */
@@ -129,7 +133,8 @@ h1 h2 {
 }
 
 /******************************
-welcome section*****************************/
+welcome section
+*****************************/
 
 strong{
   color: var(--yellow);
@@ -241,7 +246,7 @@ education
   flex-direction: column;
   margin-top: 0rem;
  font-size: 15px;
-  height: 120vh;
+  height: 90vh;
   background-color: var(--yellow);
   color: var(--red);
   position: relative;
@@ -279,7 +284,7 @@ projects
   font-family: "Permanent Marker", cursive;
   background-color: var(--backcolor);
   padding:3rem 0rem;
-  height: 280vh;
+  height: 250vh;
   text-align: center;
   color: var(--white);
 }
@@ -316,7 +321,7 @@ projects
   box-shadow: 10px 10px 5px var(--backcolor);
   width: 250px;
   height: 300px;
-  margin: 1.5rem;
+  margin: 2rem auto;
 }
 .project-card > a {
   color: var(--red);
@@ -388,7 +393,7 @@ textarea {
   flex-direction: row;
   width: 100%;
   text-align: center;
-  margin: 0 23%;
+  margin: 0 28%;
 }
 #social-bag > h2 {
   animation: move 4s infinite;
@@ -431,7 +436,9 @@ textarea {
   margin: 1.5rem;
   text-align: right;
 }
-
+.socials > a:hover{
+  color: linear-gradient(to right, var(--red) , var(--yellow));
+}
 
 #Contact > .form {
   width: 100%;
