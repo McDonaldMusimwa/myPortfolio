@@ -1,0 +1,16 @@
+{
+  "name": "mcdonald-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "McDonald Musimwa",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "emailjs": "^4.0.1",
+    "lint": "^0.8.19"
+  }
+}

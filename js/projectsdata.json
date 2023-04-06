@@ -1,0 +1,35 @@
+[
+    
+
+{
+    "link":"https://mcdonaldmusimwa.github.io/WDD130/personalsite/index.html",
+    "image":"images/phpmotors.JPG",
+    "theme":"PHP Motors ",
+    "sourcecode":"https://github.com/McDonaldMusimwa/phpmotors.git",
+    "description":"This is a full stack website for ficticius company."
+},
+
+{
+    "link":"https://willowy-boba-b5e4b3.netlify.app/",
+    "image":"images/eshop.JPG",
+    "theme":"Ecommerce",
+    "sourcecode":"https://github.com/McDonaldMusimwa/Ecommerce-shop.git",
+    "description":"This is an Ecommerce app build using javascript."
+},
+
+{
+    "link":"https://mcdonaldmusimwa.github.io/FitClub/",
+    "image":"images/gym.JPG",
+    "theme":"Fitness Website",
+    "sourcecode":"https://github.com/McDonaldMusimwa/FitClub.git",
+    "description":"This is a single page front end for a indian gym company ."
+},
+{
+    "link":"https://mcdonaldmusimwa.github.io/CalculatorWithReact/",
+    "image":"images/calculator.JPG",
+    "theme":"React Calculator",
+    "sourcecode":"https://github.com/McDonaldMusimwa/CalculatorWithReact.git",
+    "description":"Usefull calculator for your day to dat calculations."
+}
+
+]
